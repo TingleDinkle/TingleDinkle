@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/TingleDinkle" alt="TingleDinkle's GitHub Contributions Heatmap" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingleDinkle&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
