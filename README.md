@@ -19,11 +19,11 @@
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
   <!-- Add more badges for your tech stack -->
 </p>
 
 ---
-
