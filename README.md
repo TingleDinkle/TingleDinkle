@@ -1,3 +1,5 @@
+# HOLY STATS
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TingleDinkle&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="TingleDinkle's GitHub stats" />
 </p>
@@ -22,6 +24,6 @@
 
 ---
 
-<h3 align="center">📈 My Coding Tendencies</h3>
+<h3 align="center">📈 What's my main goal?</h3>
 
 - 🎨 Seeking to express art beautifully through coding
