@@ -27,6 +27,3 @@
 
 ---
 
-<h3 align="center">📈 What's my main goal?</h3>
-
-- 🎨 Seeking to express art beautifully through coding
