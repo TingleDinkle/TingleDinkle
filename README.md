@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TingleDinkle&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="TingleDinkle's GitHub stats" />
+</p>
 
-<!--
-**TingleDinkle/TingleDinkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TingleDinkle&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingleDinkle&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="center">🛠️ Languages and Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <!-- Add more badges for your tech stack -->
+</p>
+
+---
+
+<h3 align="center">📈 My Coding Tendencies</h3>
+
+<!-- Add personal section with fun facts about your coding style -->
+- 🔍 I enjoy exploring open source projects and contributing!
+- 🌐 Love building scalable web applications
+- 📚 Constantly learning new technologies and best practices
