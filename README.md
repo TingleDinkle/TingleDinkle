@@ -25,7 +25,4 @@
 
 <h3 align="center">📈 My Coding Tendencies</h3>
 
-<!-- Add personal section with fun facts about your coding style -->
-- 🔍 I enjoy exploring open source projects and contributing!
-- 🌐 Love building scalable web applications
-- 📚 Constantly learning new technologies and best practices
+- 🎨 Seeking to express art beautifully through coding
