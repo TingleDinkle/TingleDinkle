@@ -25,5 +25,7 @@
   <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
   <!-- Add more badges for your tech stack -->
 </p>
+
 Tools are just gonna flood the list, so please just check my projects, tools should be listed within every project unless if im lazy somehow :)
+
 ---
