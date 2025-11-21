@@ -26,6 +26,6 @@
   <!-- Add more badges for your tech stack -->
 </p>
 
-Tools are just gonna flood the list, so please just check my projects, tools should be listed within every project unless if im lazy somehow :)
+Tools are just gonna flood the list, so please just check my projects, tools SHOULD be listed within every project :)
 
 ---
