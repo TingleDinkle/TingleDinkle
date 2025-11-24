@@ -1,11 +1,11 @@
-# HOLY STATS
+# Jesse Dao
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TingleDinkle&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="TingleDinkle's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TingleDinkle&show_icons=true&theme=material-palenight" alt="TingleDinkle's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingleDinkle&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingleDinkle&layout=compact&langs_count=8&card_width=320&theme=material-palenight" alt="Top Languages" />
 </p>
 
 ---
