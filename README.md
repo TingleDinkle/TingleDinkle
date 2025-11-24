@@ -25,4 +25,4 @@
 
 ---
 
-Tools are just gonna flood the list, so please just check my projects, tools SHOULD be listed within every project :)
+Tools SHOULD be listed within every project :)
