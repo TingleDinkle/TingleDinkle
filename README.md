@@ -1,12 +1,5 @@
 # Jesse Dao
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TingleDinkle&show_icons=true&theme=darcula" alt="TingleDinkle's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingleDinkle&layout=compact&langs_count=8&card_width=320&theme=darcula" alt="Top Languages" />
-</div>
-
----
-
 <h3 align="center">🛠️ Languages</h3>
 
 <p align="center">
