@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-    <img src="./assets/anime-girl.gif" alt="Anime girl exploding hair" width="400"/>
+    <img src="/assets/anime-girl.gif" alt="Anime girl exploding hair" width="400"/>
   <div>
      <kbd>
        <br>
