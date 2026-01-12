@@ -1,6 +1,6 @@
-<h1 align="center">welcome to <i>Jesse's</i> struggling to make ends meet - THE Frontpage</h1>
+<h1 align="center">welcome to <i>Jesse's</i> absurdist evolutionary cyberspace</h1>
 <br>
-<p align="center">Hi! My name is Jesse, an undergraduate studying Computer Science. I'm an aspiring game dev/game engine dev or cybersecurity professional</p>
+<p align="center">Hi! My name is Jesse, an undergraduate studying Computer Science. I'm an aspiring game dev/game engine dev or cybersecurity professional (whichever pays more).</p>
 
 <h1></h1>
 <br>
