@@ -6,7 +6,10 @@
 <br>
 
 <div align="center">
-    <img src="/assets/anime-girl.gif" alt="Anime girl exploding hair" width="400"/>
+    <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+        <iframe src="https://giphy.com/embed/EmLquI4tup5HElmQZA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    </div>
+    <p><a href="https://giphy.com/gifs/gifart-perfectl00p-madewithcavalry-EmLquI4tup5HElmQZA">via GIPHY</a></p>
   <div>
      <kbd>
        <br>
