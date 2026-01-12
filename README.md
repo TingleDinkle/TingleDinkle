@@ -1,27 +1,29 @@
-# Jesse Dao
+<h1 align="center">welcome to <i>Jesse's</i> cyberspace</h1>
+<br>
+<p align="center">Hi! My name is Jesse, an undergraduate studying Computer Science. I'm an aspiring game dev/game engine dev or cybersecurity professional (whichever pays more).</p>
 
+<h1></h1>
+<br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingleDinkle&layout=compact&langs_count=8&card_width=320&theme=darcula" alt="Top Languages" />
+<div float="left" align="center">
+    <div class="tenor-gif-embed" data-postid="1952343554732308603" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+      <a href="https://tenor.com/view/anime-anime-girl-explode-hair-bald-gif-1952343554732308603">Anime Anime Girl GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a>
+    </div> 
+    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div>
+     <kbd>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Web Development ■ Low-level Programming ■ AI/ML ■ Creative Coding ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br> <br>
+     </kbd>
+  <div>
+    <br>
 </div>
 
----
-<h3 align="center">🛠️ Languages</h3>
+## Stuff I like
+| Game Development
+| **Graphics Programming**
+| Cybersecurity |
+| Creative Coding |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=plastic&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=plastic&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=plastic&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=plastic&logo=cisco&logoColor=white" />
-  <!-- Add more badges for your tech stack -->
-</p>
-
----
-
-Tools SHOULD be listed within every project :)
+■ I'm just a monkey with a keyboard trying to evolve into something that can understand the universe. ■
