@@ -10,7 +10,7 @@
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Web Development ■ Low-level Programming ■ Game Engines ■ Creative Coding ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Game Development ■ Low-level Programming ■ Game Engines ■ Creative Coding ■  &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
