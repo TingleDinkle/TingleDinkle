@@ -1,6 +1,6 @@
 <h1 align="center">One must imagine Jesse Dao happy</h1>
 <br>
-<p align="center">Hi! My name is Jesse, an undergraduate studying Computer Science. I'm an aspiring game dev/game engine dev or cybersecurity professional</p>
+<p align="center">I'm an aspiring game dev/game engine dev. Aimed to be cracked out of my mind or be a cybersecurity professional (I like packets)</p>
 
 <h1></h1>
 <br>
